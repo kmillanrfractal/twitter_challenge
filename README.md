@@ -2,6 +2,7 @@ Kevin Millan
 
 email: kmillanr@fractal-software.com
 
+
 ## Introducción
 Este proyecto documenta el proceso de resolución del Desafío de Ingeniero de Datos. El desafío consiste en analizar un conjunto de datos de tweets para responder a consultas específicas, optimizando tanto el tiempo de ejecución como el uso de memoria.
 
